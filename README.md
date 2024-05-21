@@ -17,4 +17,4 @@ $ make run
 $ make clean
 ```
 
-**If you are using windows OS you need to first run OXOGameServer.py and the run FINAL_OXO_GAME.py two times (For player one and player 2) then both players must connect to the server by clicking the connect button.
+*If you are using windows OS you need to first run OXOGameServer.py and the run FINAL_OXO_GAME.py two times (For player one and player 2) then both players must connect to the server by clicking the connect button.
